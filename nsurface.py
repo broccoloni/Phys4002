@@ -2,6 +2,10 @@ from math import pi, exp, sqrt, log, sinh, cosh, cos, acos
 import matplotlib.pyplot as plt
 from numpy import *
 
+#Note: All references to paper in this project are to the paprer 
+# O. L. Caballero, G. C. McLaughlin and R. Surman Phys. Rev. D. 80, 123004 (2009) 
+# Title: Detecting neutrinos from black hole neutron stars mergers
+
 #constants
 q = 1.60217646 * 10 ** -19		# Coulomb		(Charge of an electron)
 g = 1.                          	# no units      	(Neutrino degeneracy)
